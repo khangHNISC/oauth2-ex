@@ -13,4 +13,9 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>resource-server</module>
+        <module>auth-server</module>
+    </modules>
+
 </project>
